@@ -1,2 +1,2 @@
 # Topic-Classification-of-News-Articles
-Classifying news articles by topic using a ridge regression supervised learning model
+In this project I use a supervised learning model (ridge regression) to classify news articles by topic. The outcome shows high accuracy. The hyperparameter tuning indicates that the default hyperparameter of 1 is ideal for the hyperparameter C, which controls the trade-off between fitting the training data well and keeping model weights small i.e. regularization.
